@@ -1,8 +1,8 @@
-## Python Project - Madlib
-
-# Madlib is an interactive story generator that users can input words and create stories.
-Uses user input fields and buttons to collect nouns, verbs, adjectives, adverbs, and places interactively.
-Stores multiple story templates in an array and randomly selects one each time a new story is generated.
-Uses string replacement functions to insert user-provided words into story templates dynamically.
-Implements event-driven programming with button functions to generate and erase stories.
-Uses graphical interface elements such as text boxes, buttons, shapes, and text rendering to create an interactive user experience.
+# Python Turtle Tic Tac Toe Project
+Developed by: Walden Ho
+## Programming concepts applied:
+This Tic Tac Toe game uses turtle to draw the game.
+It uses the pen down and pen up functions to draw the O's and X's, and also uses drawing functions, and sensing functions to tell if the mouse is clicking, at which spot.
+This is an interactive 2-player game, that players take turns to put O's and X's in spots of the grid.
+Implements if conditions and predefined winning combinations to detect wins and draws.
+Uses while loops to continuously run the game until a winning or draw condition is reached.
